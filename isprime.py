@@ -1,6 +1,4 @@
 class isprime:
-    def __init__(self, num):
-        self.num = num
     def isprime(num):
         divider = 2
         result = int(num) / divider
